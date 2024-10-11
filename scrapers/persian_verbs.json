@@ -1,0 +1,4956 @@
+[
+  {
+    "spokenEnglish": "ājidan",
+    "writtenEnglish": "ājidan",
+    "meaning": {
+      "main": [
+        "to bore",
+        "to puncture",
+        "to lance",
+        "to prick",
+        "to perforate",
+        "to give a waffle pattern",
+        "to groove",
+        "to give a tread",
+        "to granulate",
+        "to embroider"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آجیدن",
+    "spokenPersian": "آجیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "ākhtan",
+    "meaning": {
+      "main": [
+        "to unsheathe (sword)",
+        "to draw",
+        "to extend",
+        "to raise",
+        "to hold in position for use (weapon",
+        "musical instrument)"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "ārāstan",
+    "meaning": {
+      "main": [
+        "to adorn",
+        "to decorate",
+        "to arrange"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آراستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āzordan",
+    "meaning": {
+      "main": [
+        "to annoy",
+        "to torment"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آزردن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āzmudan",
+    "meaning": {
+      "main": [
+        "to test"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آزمودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "āsudan",
+    "writtenEnglish": "āsudan",
+    "meaning": {
+      "main": [
+        "to rest",
+        "to repose;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to stop",
+          "to live comfortably",
+          "to rest"
+        ]
+      }
+    },
+    "writtenPersian": "آسودن",
+    "spokenPersian": "آسودن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āshoftan",
+    "meaning": {
+      "main": [
+        "to become angry",
+        "to be disturbed;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to disturb",
+          "to make chaotic",
+          "to agitate",
+          "to make angry",
+          "to riot"
+        ]
+      }
+    },
+    "writtenPersian": "آشفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āghashtan",
+    "meaning": {
+      "main": [
+        "to dip",
+        "to mix",
+        "to smear",
+        "to macerate",
+        "to welter",
+        "to impregnate",
+        "to pollute"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آغشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āgheshtan",
+    "meaning": {
+      "main": [
+        "to impregnate",
+        "to mix",
+        "to taint",
+        "to pollute",
+        "to contaminate;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to become wet"
+        ]
+      }
+    },
+    "writtenPersian": "آغشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āfaridan",
+    "meaning": {
+      "main": [
+        "to create"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آفریدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "ākandan",
+    "meaning": {
+      "main": [
+        "<a title=\"literary\"><i>lit.</i></a> to stuff",
+        "to fill",
+        "to pack;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to imbue",
+          "to collect",
+          "to bury"
+        ]
+      }
+    },
+    "writtenPersian": "آکندن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āgandan",
+    "meaning": {
+      "main": [
+        "<a title=\"literary\"><i>lit.</i></a> to stuff",
+        "to fill",
+        "to pack;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to imbue",
+          "to collect",
+          "to bury (variant of āgandan)"
+        ]
+      }
+    },
+    "writtenPersian": "آگندن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āludan",
+    "meaning": {
+      "main": [
+        "to contaminate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آلودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āmādan",
+    "meaning": {
+      "main": [
+        "to prepare",
+        "to equip"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آمادن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "umadan *",
+    "writtenEnglish": "āmadan",
+    "meaning": {
+      "main": [
+        "to come"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آمدن",
+    "spokenPersian": "اومدن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "āmorzidan",
+    "writtenEnglish": "āmorzidan",
+    "meaning": {
+      "main": [
+        "to forgive"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آمرزیدن",
+    "spokenPersian": "آمرزیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "āmukhtan",
+    "writtenEnglish": "āmukhtan",
+    "meaning": {
+      "main": [
+        "to learn",
+        "to teach"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آموختن",
+    "spokenPersian": "آموختن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "āmikhtan",
+    "writtenEnglish": "āmikhtan",
+    "meaning": {
+      "main": [
+        "to mix",
+        "to associate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آمیختن",
+    "spokenPersian": "آمیختن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "āvardan",
+    "writtenEnglish": "āvardan",
+    "meaning": {
+      "main": [
+        "to bring"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آوردن",
+    "spokenPersian": "آوردن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "āvordan *",
+    "writtenEnglish": "āvardan",
+    "meaning": {
+      "main": [
+        "to bring"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آوردن",
+    "spokenPersian": "آوردن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āvikhtan",
+    "meaning": {
+      "main": [
+        "to hang",
+        "to suspend"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "آویختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "āhikhtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to unsheathe (sword)",
+          "to draw",
+          "to extend",
+          "to raise",
+          "to hold in position for use",
+          "to draw out",
+          "to pull off",
+          "to raise"
+        ]
+      }
+    },
+    "writtenPersian": "آهیختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "arzidan",
+    "writtenEnglish": "arzidan",
+    "meaning": {
+      "main": [
+        "to be worth",
+        "to cost"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ارزیدن",
+    "spokenPersian": "ارزیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "oftādan *",
+    "writtenEnglish": "oftādan",
+    "meaning": {
+      "main": [
+        "to fall"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "افتادن",
+    "spokenPersian": "افتادن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "afrākhtan",
+    "meaning": {
+      "main": [
+        "to elevate",
+        "to hoist",
+        "to exalt"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "افراختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "afrāshtan",
+    "meaning": {
+      "main": [
+        "to elevate",
+        "hoist",
+        "exalt"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "افراشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "afrukhtan",
+    "meaning": {
+      "main": [
+        "kindle"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "افروختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "afzudan",
+    "writtenEnglish": "afzudan",
+    "meaning": {
+      "main": [
+        "to add",
+        "to increase",
+        "to increase",
+        "to augment",
+        "to intensify",
+        "to enhance",
+        "to amplify",
+        "to attach",
+        "to grow"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "افزودن",
+    "spokenPersian": "افزودن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "afsordan",
+    "meaning": {
+      "main": [
+        "to become sad",
+        "to become depressed;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to freeze"
+        ]
+      }
+    },
+    "writtenPersian": "افسردن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "afshordan",
+    "meaning": {
+      "main": [
+        "to press",
+        "to squeeze"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "افشردن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "afkandan",
+    "meaning": {
+      "main": [
+        "to throw",
+        "to project"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "افکندن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "anbāshtan",
+    "meaning": {
+      "main": [
+        "to fill up",
+        "to store",
+        "to hoard"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "انباشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "anjāmidan",
+    "writtenEnglish": "anjāmidan",
+    "meaning": {
+      "main": [
+        "to result (in)",
+        "to end up (with)",
+        "to culminate (in)",
+        "to lead (to);"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to end",
+          "to carry out",
+          "to complete"
+        ]
+      }
+    },
+    "writtenPersian": "انجامیدن",
+    "spokenPersian": "انجامیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "andākhtan *",
+    "writtenEnglish": "andākhtan",
+    "meaning": {
+      "main": [
+        "to cast"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "انداختن",
+    "spokenPersian": "انداختن *",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "andukhtan",
+    "meaning": {
+      "main": [
+        "to amass",
+        "to accumulate",
+        "to save"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "اندوختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "andudan",
+    "meaning": {
+      "main": [
+        "to plaster",
+        "to coat"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "اندودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "andishidan",
+    "writtenEnglish": "andishidan",
+    "meaning": {
+      "main": [
+        "to think",
+        "to reflect",
+        "to philosophize",
+        "to ratiocinate",
+        "to conceptualize",
+        "to consider",
+        "to opine",
+        "to fear"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "اندیشیدن",
+    "spokenPersian": "اندیشیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "engāshtan",
+    "meaning": {
+      "main": [
+        "to think",
+        "to imagine"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "انگاشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "angikhtan",
+    "writtenEnglish": "angikhtan",
+    "meaning": {
+      "main": [
+        "to awaken",
+        "to excite",
+        "to stimulate",
+        "to arouse",
+        "to animate",
+        "to invigorate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "انگیختن",
+    "spokenPersian": "انگیختن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "istādan",
+    "writtenEnglish": "istādan",
+    "meaning": {
+      "main": [
+        "to stand",
+        "to stand up",
+        "to stay",
+        "to remain",
+        "to stay in place",
+        "to stand",
+        "to stop",
+        "to hold on",
+        "to stand",
+        "to endure",
+        "to hold out",
+        "to hold out",
+        "to last",
+        "to expect",
+        "to put up with",
+        "to settle"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ایستادن",
+    "spokenPersian": "ایستادن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "bākhtan",
+    "meaning": {
+      "main": [
+        "to lose",
+        "to play"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "باختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "bārāndan",
+    "meaning": {
+      "main": [
+        "to rain"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "باراندن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "bārānidan",
+    "meaning": {
+      "main": [
+        "to rain"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بارانیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "bāridan",
+    "writtenEnglish": "bāridan",
+    "meaning": {
+      "main": [
+        "to rain",
+        "to fall",
+        "to come at;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to ooze forth"
+        ]
+      }
+    },
+    "writtenPersian": "باریدن",
+    "spokenPersian": "باریدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "bāftan",
+    "writtenEnglish": "bāftan",
+    "meaning": {
+      "main": [
+        "to weave",
+        "to braid",
+        "to fabricate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بافتن",
+    "spokenPersian": "بافتن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "bālidan",
+    "meaning": {
+      "main": [
+        "to boast",
+        "to pride oneself",
+        "to grow"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بالیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "bāyestan *",
+    "writtenEnglish": "bāyestan",
+    "meaning": {
+      "main": [
+        "to have to",
+        "to need to",
+        "must"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بایستن",
+    "spokenPersian": "بایستن *",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "bakhshāidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to pity",
+          "to have mercy"
+        ]
+      }
+    },
+    "writtenPersian": "بخشاییدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "bakhshudan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to pity",
+          "to have mercy"
+        ]
+      }
+    },
+    "writtenPersian": "بخشودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "bakhshidan",
+    "writtenEnglish": "bakhshidan",
+    "meaning": {
+      "main": [
+        "to grant",
+        "to grant forgiveness"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بخشیدن",
+    "spokenPersian": "بخشیدن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "barāzidan",
+    "meaning": {
+      "main": [
+        "to become",
+        "to suit",
+        "to befit"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "برازیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "bordan",
+    "writtenEnglish": "bordan",
+    "meaning": {
+      "main": [
+        "to carry",
+        "to lead",
+        "to win"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بردن",
+    "spokenPersian": "بردن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "boridan",
+    "writtenEnglish": "boridan",
+    "meaning": {
+      "main": [
+        "to cut"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بریدن",
+    "spokenPersian": "بریدن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "bastan",
+    "writtenEnglish": "bastan",
+    "meaning": {
+      "main": [
+        "to close",
+        "to tie",
+        "to fasten"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بستن",
+    "spokenPersian": "بستن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "balidan",
+    "writtenEnglish": "bal`idan",
+    "meaning": {
+      "main": [
+        "to swallow",
+        "to devour"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بلعیدن",
+    "spokenPersian": "بلعیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "budan *",
+    "writtenEnglish": "budan",
+    "meaning": {
+      "main": [
+        "to be",
+        "to exist"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بودن",
+    "spokenPersian": "بودن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "busidan",
+    "writtenEnglish": "busidan",
+    "meaning": {
+      "main": [
+        "to kiss"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بوسیدن",
+    "spokenPersian": "بوسیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "buidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to smell",
+          "to smell"
+        ]
+      }
+    },
+    "writtenPersian": "بوییدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "be khod umadan",
+    "writtenEnglish": "be khod āmadan",
+    "meaning": {
+      "main": [
+        "to come to;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to awaken",
+          "to wake up"
+        ]
+      }
+    },
+    "writtenPersian": "به خود آمدن",
+    "spokenPersian": "به خود اومدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "bikhtan",
+    "meaning": {
+      "main": [
+        "to sift",
+        "to bolt"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "بیختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "pāshidan",
+    "writtenEnglish": "pāshidan",
+    "meaning": {
+      "main": [
+        "to scatter",
+        "to disperse",
+        "to disintegrate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پاشیدن",
+    "spokenPersian": "پاشیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "pāludan",
+    "meaning": {
+      "main": [
+        "to filter",
+        "to refine"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پالودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "pokhtan",
+    "writtenEnglish": "pokhtan",
+    "meaning": {
+      "main": [
+        "to cook"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پختن",
+    "spokenPersian": "پختن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "paziroftan",
+    "writtenEnglish": "paziroftan",
+    "meaning": {
+      "main": [
+        "to accept",
+        "to admit",
+        "to adopt"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پذیرفتن",
+    "spokenPersian": "پذیرفتن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "parākandan",
+    "meaning": {
+      "main": [
+        "to scatter",
+        "to disperse"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پراکندن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "parundan",
+    "writtenEnglish": "parāndan",
+    "meaning": {
+      "main": [
+        "to cause to fly",
+        "to throw;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to utter",
+          "to wake up suddenly",
+          "to chase away;"
+        ]
+      }
+    },
+    "writtenPersian": "پراندن",
+    "spokenPersian": "پروندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "pardākhtan",
+    "writtenEnglish": "pardākhtan",
+    "meaning": {
+      "main": [
+        "to polish",
+        "to pay",
+        "to proceed"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پرداختن",
+    "spokenPersian": "پرداختن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "porsidan",
+    "writtenEnglish": "porsidan",
+    "meaning": {
+      "main": [
+        "to ask",
+        "to inquire"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پرسیدن",
+    "spokenPersian": "پرسیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "parvardan",
+    "meaning": {
+      "main": [
+        "to rear",
+        "to foster",
+        "to cherish"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پروردن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "parhikhtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to abstain",
+          "to keep away"
+        ]
+      }
+    },
+    "writtenPersian": "پرهیختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "parhizidan",
+    "meaning": {
+      "main": [
+        "to abstain",
+        "to keep away"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پرهیزیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "paridan",
+    "writtenEnglish": "paridan",
+    "meaning": {
+      "main": [
+        "to fly",
+        "to fly",
+        "to jump",
+        "to startle",
+        "to jump"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پریدن",
+    "spokenPersian": "پریدن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "pazhuhidan",
+    "writtenEnglish": "pezhuhidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to research",
+          "to search",
+          "to investigate",
+          "to inquire",
+          "to look for",
+          "to examine",
+          "to examine",
+          "to consider",
+          "to inspect"
+        ]
+      }
+    },
+    "writtenPersian": "پژوهیدن",
+    "spokenPersian": "پژوهیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "pasandidan",
+    "meaning": {
+      "main": [
+        "to admire",
+        "to prefer",
+        "to choose",
+        "to select"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پسندیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "pendāridan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to suppose",
+          "to imagine",
+          "to suppose"
+        ]
+      }
+    },
+    "writtenPersian": "پنداریدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "pendāshtan",
+    "writtenEnglish": "pendāshtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "literary": [
+          "to suppose",
+          "imagine",
+          "to suppose",
+          "to believe",
+          "to consider"
+        ]
+      }
+    },
+    "writtenPersian": "پنداشتن",
+    "spokenPersian": "پنداشتن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "pushidan",
+    "writtenEnglish": "pushidan",
+    "meaning": {
+      "main": [
+        "to put on",
+        "to wear",
+        "to cover"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پوشیدن",
+    "spokenPersian": "پوشیدن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "pichidan",
+    "writtenEnglish": "pichidan",
+    "meaning": {
+      "main": [
+        "to wind",
+        "to wrap",
+        "to twist",
+        "to bend",
+        "to roll up"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پیچیدن",
+    "spokenPersian": "پیچیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "pirāstan",
+    "meaning": {
+      "main": [
+        "to trim",
+        "to decorate",
+        "to dress up"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پیراستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "payrāstan",
+    "meaning": {
+      "main": [
+        "to trim",
+        "to decorate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پیراستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "paymudan",
+    "meaning": {
+      "main": [
+        "to travel",
+        "to measure"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پیمودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "payvastan",
+    "meaning": {
+      "main": [
+        "to join"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "پیوستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tākhtan",
+    "writtenEnglish": "tākhtan",
+    "meaning": {
+      "main": [
+        "to gallop",
+        "to race",
+        "to hurry",
+        "to rush",
+        "to assault"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "تاختن",
+    "spokenPersian": "تاختن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "tāftan",
+    "meaning": {
+      "main": [
+        "to twist",
+        "to shine",
+        "to scorch"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "تافتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tapidan",
+    "writtenEnglish": "tapidan",
+    "meaning": {
+      "main": [
+        "to beat",
+        "to palpitate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "تپیدن",
+    "spokenPersian": "تپیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tepidan",
+    "writtenEnglish": "tepidan",
+    "meaning": {
+      "main": [
+        "to be crammed (into)"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "تپیدن",
+    "spokenPersian": "تپیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tarāshidan",
+    "writtenEnglish": "tarāshidan",
+    "meaning": {
+      "main": [
+        "to shave",
+        "to scrape",
+        "to cut",
+        "to sharpen",
+        "to whittle",
+        "to hew",
+        "to carve",
+        "to erase",
+        "to pare",
+        "to abrade",
+        "to grind; <a title=\"colloquial\"><i>colloq.</i></a>"
+      ],
+      "tagged": {
+        "figurative": [
+          "to wear down",
+          "to forge",
+          "to bring about",
+          "to create"
+        ]
+      }
+    },
+    "writtenPersian": "تراشیدن",
+    "spokenPersian": "تراشیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tarāvundan",
+    "writtenEnglish": "tarāvāndan",
+    "meaning": {
+      "main": [
+        "to exude",
+        "to shed",
+        "to leak",
+        "to drip",
+        "to percolate",
+        "to permeate",
+        "to leach"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "تراواندن",
+    "spokenPersian": "تراوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tarāvidan",
+    "writtenEnglish": "tarāvidan",
+    "meaning": {
+      "main": [
+        "to ooze",
+        "to leak",
+        "to dribble",
+        "to drip",
+        "to percolate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "تراویدن",
+    "spokenPersian": "تراویدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tarsundan",
+    "writtenEnglish": "tarsāndan",
+    "meaning": {
+      "main": [
+        "to frighten"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ترساندن",
+    "spokenPersian": "ترسوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tarsidan",
+    "writtenEnglish": "tarsidan",
+    "meaning": {
+      "main": [
+        "to fear"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ترسیدن",
+    "spokenPersian": "ترسیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "terekidan",
+    "writtenEnglish": "tarakidan",
+    "meaning": {
+      "main": [
+        "to explode"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ترکیدن",
+    "spokenPersian": "ترکیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tamargidan",
+    "writtenEnglish": "tamargidan",
+    "meaning": {
+      "main": [
+        "<a title=\"\"><i>rude</i></a> to sit",
+        "to sit down"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "تمرگیدن",
+    "spokenPersian": "تمرگیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tunestan *",
+    "writtenEnglish": "tavānestan",
+    "meaning": {
+      "main": [
+        "to be able"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "توانستن",
+    "spokenPersian": "تونستن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "tukhtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to perform",
+          "to repay",
+          "to wish",
+          "to search",
+          "to amass",
+          "to acquire"
+        ]
+      }
+    },
+    "writtenPersian": "توختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "tighidan",
+    "writtenEnglish": "tighidan",
+    "meaning": {
+      "main": [
+        "<a title=\"slang\"><i>sl.</i></a> to milk",
+        "to swindle"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "تیغیدن",
+    "spokenPersian": "تیغیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "jastan",
+    "meaning": {
+      "main": [
+        "to jump",
+        "to leap"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "جستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "jostan",
+    "meaning": {
+      "main": [
+        "to seek",
+        "to find"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "جستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "jonbāndan",
+    "meaning": {
+      "main": [
+        "to move",
+        "to shake",
+        "to nod",
+        "to wag"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "جنباندن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "jonbānidan",
+    "meaning": {
+      "main": [
+        "to move",
+        "to shake",
+        "to nod",
+        "to wag"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "جنبانیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "jonbidan",
+    "meaning": {
+      "main": [
+        "to move",
+        "to shake",
+        "to get going"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "جنبیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "jangidan",
+    "meaning": {
+      "main": [
+        "to war",
+        "to fight",
+        "to wage war",
+        "to quarrel;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to persevere"
+        ]
+      }
+    },
+    "writtenPersian": "جنگیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "jushundan",
+    "writtenEnglish": "jushāndan",
+    "meaning": {
+      "main": [
+        "to boil",
+        "to bring to a boil",
+        "to simmer"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "جوشاندن",
+    "spokenPersian": "جوشوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "jushidan",
+    "writtenEnglish": "jushidan",
+    "meaning": {
+      "main": [
+        "to boil",
+        "to come to a boil",
+        "to gurgle",
+        "to stew",
+        "to effervesce;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to become agitated",
+          "to fret",
+          "to fume"
+        ]
+      }
+    },
+    "writtenPersian": "جوشیدن",
+    "spokenPersian": "جوشیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "āshoftan",
+    "writtenEnglish": "jushidan",
+    "meaning": {
+      "main": [
+        "to boil",
+        "to come to a boil",
+        "to gurgle",
+        "to stew",
+        "to effervesce;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to become agitated",
+          "to fret",
+          "to fume"
+        ]
+      }
+    },
+    "writtenPersian": "جوشیدن",
+    "spokenPersian": "آشفتن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "javidan",
+    "meaning": {
+      "main": [
+        "to chew"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "جویدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "juidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to seek",
+          "to find"
+        ]
+      }
+    },
+    "writtenPersian": "جوییدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "charkhidan",
+    "writtenEnglish": "charkhidan",
+    "meaning": {
+      "main": [
+        "to circle",
+        "to rotate",
+        "to roam",
+        "to be managed",
+        "to be running"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "چرخیدن",
+    "spokenPersian": "چرخیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "chasbundan",
+    "writtenEnglish": "chasbāndan",
+    "meaning": {
+      "main": [
+        "to stick",
+        "to glue",
+        "to paste"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "چسباندن",
+    "spokenPersian": "چسبوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "chasbidan",
+    "writtenEnglish": "chasbidan",
+    "meaning": {
+      "main": [
+        "to adhere",
+        "to stick",
+        "to be stuck (to)",
+        "to cling",
+        "to grip"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "چسبیدن",
+    "spokenPersian": "چسبیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "cheshidan",
+    "writtenEnglish": "chashidan",
+    "meaning": {
+      "main": [
+        "to taste;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to taste",
+          "to savor",
+          "to sip;"
+        ]
+      }
+    },
+    "writtenPersian": "چشیدن",
+    "spokenPersian": "چشیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "chidan",
+    "meaning": {
+      "main": [
+        "to pluck"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "چیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "khārundan",
+    "writtenEnglish": "khārāndan",
+    "meaning": {
+      "main": [
+        "to scratch",
+        "to scrape",
+        "to scratch"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "خاراندن",
+    "spokenPersian": "خاروندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "khāridan",
+    "writtenEnglish": "khāridan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "literary": [
+          "to itch",
+          "to scratch",
+          "to itch",
+          "to itch",
+          "to prickle;"
+        ]
+      }
+    },
+    "writtenPersian": "خاریدن",
+    "spokenPersian": "خاریدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "khāstan",
+    "writtenEnglish": "khāstan",
+    "meaning": {
+      "main": [
+        "to arise",
+        "to grow",
+        "to move upward",
+        "to grow",
+        "to develop"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "خاستن",
+    "spokenPersian": "خاستن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "khāidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to chew",
+          "to slander"
+        ]
+      }
+    },
+    "writtenPersian": "خاییدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "kharāshundan",
+    "writtenEnglish": "kharāshāndan",
+    "meaning": {
+      "main": [
+        "to scratch",
+        "to scrape",
+        "to rasp"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "خراشاندن",
+    "spokenPersian": "خراشوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "kharāmidan",
+    "meaning": {
+      "main": [
+        "to strut",
+        "to walk gracefully;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to go",
+          "to come"
+        ]
+      }
+    },
+    "writtenPersian": "خرامیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "kharidan",
+    "writtenEnglish": "kharidan",
+    "meaning": {
+      "main": [
+        "to buy"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "خریدن",
+    "spokenPersian": "خریدن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "khosbidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to sleep",
+          "to settle down"
+        ]
+      }
+    },
+    "writtenPersian": "خسبیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "khospidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to sleep"
+        ]
+      }
+    },
+    "writtenPersian": "خسپیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "khoshkundan",
+    "writtenEnglish": "khoshkāndan",
+    "meaning": {
+      "main": [
+        "to dry",
+        "to make dry"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "خشکاندن",
+    "spokenPersian": "خشکوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "khoftan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to sleep"
+        ]
+      }
+    },
+    "writtenPersian": "خفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "khandidan",
+    "writtenEnglish": "khandidan",
+    "meaning": {
+      "main": [
+        "to laugh",
+        "to smile;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to cheer up",
+          "to bloom"
+        ]
+      }
+    },
+    "writtenPersian": "خندیدن",
+    "spokenPersian": "خندیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "khābidan",
+    "writtenEnglish": "khābidan",
+    "meaning": {
+      "main": [
+        "to sleep",
+        "to fall asleep",
+        "to lie down",
+        "to lie;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to go to bed",
+          "to settle down",
+          "to settle;"
+        ]
+      }
+    },
+    "writtenPersian": "خوابیدن",
+    "spokenPersian": "خوابیدن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "khāstan *",
+    "writtenEnglish": "khāstan",
+    "meaning": {
+      "main": [
+        "to want"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "خواستن",
+    "spokenPersian": "خواستن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "khundan",
+    "writtenEnglish": "khāndan",
+    "meaning": {
+      "main": [
+        "to read",
+        "to study",
+        "to study",
+        "to study",
+        "to recite",
+        "to recite",
+        "to call out",
+        "to call"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "خواندن",
+    "spokenPersian": "خوندن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "khorundan",
+    "writtenEnglish": "khorāndan",
+    "meaning": {
+      "main": [
+        "to feed"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "خوراندن",
+    "spokenPersian": "خوروندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "khordan *",
+    "writtenEnglish": "khordan",
+    "meaning": {
+      "main": [
+        "to eat",
+        "to drink",
+        "to hit",
+        "to suit;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to eat up",
+          "to eat into",
+          "to eat"
+        ]
+      }
+    },
+    "writtenPersian": "خوردن",
+    "spokenPersian": "خوردن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "dādan *",
+    "writtenEnglish": "dādan",
+    "meaning": {
+      "main": [
+        "to give"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "دادن",
+    "spokenPersian": "دادن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "dāshtan *",
+    "writtenEnglish": "dāshtan",
+    "meaning": {
+      "main": [
+        "to have"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "داشتن",
+    "spokenPersian": "داشتن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "dunestan *",
+    "writtenEnglish": "dānestan",
+    "meaning": {
+      "main": [
+        "to know",
+        "to find out"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "دانستن",
+    "spokenPersian": "دونستن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "derāzidan",
+    "writtenEnglish": "",
+    "meaning": {
+      "main": [
+        "<a title=\"slang\"><i>sl.</i></a> to stretch out",
+        "to lie down"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "",
+    "spokenPersian": "درازیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "dorudan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to reap"
+        ]
+      }
+    },
+    "writtenPersian": "درودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "deravidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to harvest",
+          "to cut the crops"
+        ]
+      }
+    },
+    "writtenPersian": "درویدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "daridan",
+    "meaning": {
+      "main": [
+        "to tear"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "دریدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "dozdidan",
+    "writtenEnglish": "dozdidan",
+    "meaning": {
+      "main": [
+        "to steal"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "دزدیدن",
+    "spokenPersian": "دزدیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "damidan",
+    "writtenEnglish": "damidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to blow",
+          "to breathe",
+          "to blossom",
+          "to appear"
+        ]
+      }
+    },
+    "writtenPersian": "دمیدن",
+    "spokenPersian": "دمیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "davundan",
+    "writtenEnglish": "davāndan",
+    "meaning": {
+      "main": [
+        "to make run",
+        "to cause to run"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "دواندن",
+    "spokenPersian": "دووندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "dukhtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to milk"
+        ]
+      }
+    },
+    "writtenPersian": "دوختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "dukhtan",
+    "meaning": {
+      "main": [
+        "to sew"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "دوختن",
+    "spokenPersian": "",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "dushidan",
+    "writtenEnglish": "dushidan",
+    "meaning": {
+      "main": [
+        "to milk; <a title=\"colloquial\"><i>colloq.</i></a> to exploit"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "دوشیدن",
+    "spokenPersian": "دوشیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "doidan *",
+    "writtenEnglish": "davidan",
+    "meaning": {
+      "main": [
+        "to run"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "دویدن",
+    "spokenPersian": "دویدن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "didan",
+    "writtenEnglish": "didan",
+    "meaning": {
+      "main": [
+        "to see",
+        "to see",
+        "to see",
+        "to see",
+        "to see",
+        "to see",
+        "to see",
+        "to see",
+        "to see",
+        "to see",
+        "to see",
+        "to see",
+        "to see"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "دیدن",
+    "spokenPersian": "دیدن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "rundan",
+    "writtenEnglish": "rāndan",
+    "meaning": {
+      "main": [
+        "to drive"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "راندن",
+    "spokenPersian": "روندن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "robudan",
+    "meaning": {
+      "main": [
+        "to seize",
+        "to snatch"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ربودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "resundan",
+    "writtenEnglish": "resāndan",
+    "meaning": {
+      "main": [
+        "to cause to reach",
+        "to deliver",
+        "to supply",
+        "to supply",
+        "to convey",
+        "to express",
+        "to transmit",
+        "to take",
+        "to fetch",
+        "to make it through"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "رساندن",
+    "spokenPersian": "رسوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "rostan",
+    "meaning": {
+      "main": [
+        "to grow"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "رستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "rastan",
+    "meaning": {
+      "main": [
+        "to be delivered",
+        "to escape"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "رستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "residan *",
+    "writtenEnglish": "residan",
+    "meaning": {
+      "main": [
+        "to reach"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "رسیدن",
+    "spokenPersian": "رسیدن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "reshtan",
+    "meaning": {
+      "main": [
+        "to spin"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "رشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "raftan *",
+    "writtenEnglish": "raftan",
+    "meaning": {
+      "main": [
+        "to go",
+        "to go away"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "رفتن",
+    "spokenPersian": "رفتن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "roftan",
+    "meaning": {
+      "main": [
+        "to sweep"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "رفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "raghsidan",
+    "writtenEnglish": "raqsidan",
+    "meaning": {
+      "main": [
+        "to dance"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "رقصیدن",
+    "spokenPersian": "رقصیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "ruidan",
+    "meaning": {
+      "main": [
+        "to grow"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "روییدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "rikhtan",
+    "writtenEnglish": "rikhtan",
+    "meaning": {
+      "main": [
+        "to pour",
+        "to throw",
+        "to shed",
+        "to flow",
+        "to fall"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ریختن",
+    "spokenPersian": "ریختن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "ridan",
+    "writtenEnglish": "ridan",
+    "meaning": {
+      "main": [
+        "<a title=\"vulgar\"><i>vulg.</i></a> to shit"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ریدن",
+    "spokenPersian": "ریدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "zādan",
+    "meaning": {
+      "main": [
+        "to bring forth",
+        "to be born"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "زادن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "zadan *",
+    "writtenEnglish": "zadan",
+    "meaning": {
+      "main": [
+        "to hit; <a title=\"colloquial\"><i>colloq.</i></a> to play",
+        "to type",
+        "to go",
+        "to play",
+        "to play",
+        "to play",
+        "to drum",
+        "to drum"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "زدن",
+    "spokenPersian": "زدن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "zodudan",
+    "meaning": {
+      "main": [
+        "to rub off",
+        "to scour"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "زدودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "zangidan",
+    "writtenEnglish": "zangidan",
+    "meaning": {
+      "main": [
+        "<a title=\"slang\"><i>sl.</i></a> to phone",
+        "to call"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "زنگیدن",
+    "spokenPersian": "زنگیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "zistan",
+    "meaning": {
+      "main": [
+        "to live"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "زیستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "zhulidan",
+    "writtenEnglish": "zhulidan",
+    "meaning": {
+      "main": [
+        "to become disheveled",
+        "to become chaotic",
+        "to become messed up;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to make disheveled",
+          "to upset"
+        ]
+      }
+    },
+    "writtenPersian": "ژولیدن",
+    "spokenPersian": "ژولیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "sābidan",
+    "writtenEnglish": "sābidan",
+    "meaning": {
+      "main": [
+        "<a title=\"colloquial\"><i>colloq.</i></a> to rub",
+        "to polish",
+        "to grind",
+        "to wear out"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "سابیدن",
+    "spokenPersian": "سابیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "sākhtan",
+    "writtenEnglish": "sākhtan",
+    "meaning": {
+      "main": [
+        "to construct",
+        "to create"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ساختن",
+    "spokenPersian": "ساختن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "sāidan",
+    "writtenEnglish": "sāidan",
+    "meaning": {
+      "main": [
+        "to rub hard",
+        "to grind",
+        "to pulverize",
+        "to rasp",
+        "to wear away;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to become rubbed",
+          "to become ground"
+        ]
+      }
+    },
+    "writtenPersian": "ساییدن",
+    "spokenPersian": "ساییدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "separdan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to traverse",
+          "to pass"
+        ]
+      }
+    },
+    "writtenPersian": "سپردن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "sepordan",
+    "meaning": {
+      "main": [
+        "to entrust",
+        "to deposit",
+        "to order"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "سپردن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "setādan",
+    "meaning": {
+      "main": [
+        "not found"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ستادن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "setadan",
+    "meaning": {
+      "main": [
+        "to take"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ستدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "setordan",
+    "meaning": {
+      "main": [
+        "",
+        "to clean;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to clean; <a title=\"figurative\"><i>fig.</i></a>"
+        ],
+        "figurative": [
+          ""
+        ]
+      }
+    },
+    "writtenPersian": "ستردن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "sotudan",
+    "meaning": {
+      "main": [
+        "to praise"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ستودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "sereshtan",
+    "meaning": {
+      "main": [
+        "to mix",
+        "to mold",
+        "to form;",
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "<a title=\"figurative\"><i>fig.</i></a> to create;"
+        ],
+        "figurative": [
+          "to create;"
+        ]
+      }
+    },
+    "writtenPersian": "سرشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "sorudan",
+    "meaning": {
+      "main": [
+        "to sing",
+        "to compose",
+        "to recite"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "سرودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "soridan",
+    "writtenEnglish": "soridan",
+    "meaning": {
+      "main": [
+        "to slide",
+        "to skid",
+        "to slip"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "سریدن",
+    "spokenPersian": "سریدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "softan",
+    "meaning": {
+      "main": [
+        "not found"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "سفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "softan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to bore",
+          "to pierce"
+        ]
+      }
+    },
+    "writtenPersian": "سفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "segālidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to think",
+          "to contrive",
+          "to deliberate",
+          "to advise"
+        ]
+      }
+    },
+    "writtenPersian": "سگالیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "sukhtan",
+    "meaning": {
+      "main": [
+        "to burn"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "سوختن",
+    "spokenPersian": "",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "sudan",
+    "meaning": {
+      "main": [
+        "to rub",
+        "to grind"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "سودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "suzundan",
+    "writtenEnglish": "suzāndan",
+    "meaning": {
+      "main": [
+        "to set on fire",
+        "to burn"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "سوزاندن",
+    "spokenPersian": "سوزوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "shāshidan",
+    "writtenEnglish": "shāshidan",
+    "meaning": {
+      "main": [
+        "<a title=\"colloquial\"><i>colloq.</i></a> to piss",
+        "to pee",
+        "to urinate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شاشیدن",
+    "spokenPersian": "شاشیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shāyestan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to befit",
+          "to merit"
+        ]
+      }
+    },
+    "writtenPersian": "شایستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shetābidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to hurry"
+        ]
+      }
+    },
+    "writtenPersian": "شتابیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "shetāftan",
+    "writtenEnglish": "shetāftan",
+    "meaning": {
+      "main": [
+        "to hurry"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شتافتن",
+    "spokenPersian": "شتافتن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "shodan *",
+    "writtenEnglish": "shodan",
+    "meaning": {
+      "main": [
+        "to become"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شدن",
+    "spokenPersian": "شدن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "shostan *",
+    "writtenEnglish": "shostan",
+    "meaning": {
+      "main": [
+        "to wash"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شستن",
+    "spokenPersian": "شستن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shekāftan",
+    "meaning": {
+      "main": [
+        "to split",
+        "to cleave",
+        "to unsew",
+        "to unstitch",
+        "to undo",
+        "to analyze",
+        "to be unstitched"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شکافتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shekāfidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to split",
+          "to cleave",
+          "to unsew",
+          "to unstitch",
+          "to undo",
+          "to analyze",
+          "to be unstitched"
+        ]
+      }
+    },
+    "writtenPersian": "شکافیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "shekundan *",
+    "writtenEnglish": "shekāndan",
+    "meaning": {
+      "main": [
+        "to cause to break",
+        "to break"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شکاندن",
+    "spokenPersian": "شکوندن *",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "shekastan *",
+    "writtenEnglish": "shekastan",
+    "meaning": {
+      "main": [
+        "to break",
+        "to become broken"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شکستن",
+    "spokenPersian": "شکستن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shekoftan",
+    "meaning": {
+      "main": [
+        "to open (flowers)",
+        "to cheer up",
+        "to smile"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شکفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shokufidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to open (flowers)",
+          "to cheer up",
+          "to smile"
+        ]
+      }
+    },
+    "writtenPersian": "شکوفیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shekufidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to open (flowers)",
+          "to cheer up",
+          "to smile"
+        ]
+      }
+    },
+    "writtenPersian": "شکوفیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shakibidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to wait",
+          "to be patient",
+          "to tolerate"
+        ]
+      }
+    },
+    "writtenPersian": "شکیبیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shekibidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to wait",
+          "to be patient",
+          "to tolerate"
+        ]
+      }
+    },
+    "writtenPersian": "شکیبیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "shalidan",
+    "writtenEnglish": "shalidan",
+    "meaning": {
+      "main": [
+        "<a title=\"colloquial\"><i>colloq.</i></a> to limp",
+        "to limp"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شلیدن",
+    "spokenPersian": "شلیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "shomordan",
+    "writtenEnglish": "shomordan",
+    "meaning": {
+      "main": [
+        "to count",
+        "to reckon"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شمردن",
+    "spokenPersian": "شمردن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "shenākhtan",
+    "writtenEnglish": "shenākhtan",
+    "meaning": {
+      "main": [
+        "to know",
+        "to recognize",
+        "to know",
+        "to recognize",
+        "to recognize",
+        "to consider",
+        "to know",
+        "to know",
+        "to identify",
+        "to recognize"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شناختن",
+    "spokenPersian": "شناختن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shenoftan",
+    "meaning": {
+      "main": [
+        "not found"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شنفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "shonudan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to hear",
+          "to listen"
+        ]
+      }
+    },
+    "writtenPersian": "شنودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "shenidan *",
+    "writtenEnglish": "shenidan",
+    "meaning": {
+      "main": [
+        "to hear"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "شنیدن",
+    "spokenPersian": "شنیدن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "sarfidan",
+    "writtenEnglish": "sarfidan",
+    "meaning": {
+      "main": [
+        "<a title=\"colloquial\"><i>colloq.</i></a> to cost",
+        "to be worth",
+        "to get one's money's worth"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "صرفیدن",
+    "spokenPersian": "صرفیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "talabidan",
+    "meaning": {
+      "main": [
+        "to ask",
+        "to need",
+        "to call",
+        "to invite",
+        "to summon;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to seek",
+          "to demand"
+        ]
+      }
+    },
+    "writtenPersian": "طلبیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "ghonudan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to sleep"
+        ]
+      }
+    },
+    "writtenPersian": "غنودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "farsāidan",
+    "meaning": {
+      "main": [
+        "to wear (out)",
+        "to rub (off)",
+        "to become worn",
+        "to obliterate; <a title=\"figurative\"><i>fig.</i></a> to tire; <a title=\"figurative\"><i>fig.</i></a>"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to become tired;"
+        ]
+      }
+    },
+    "writtenPersian": "فرساییدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "ferestādan *",
+    "writtenEnglish": "ferestādan",
+    "meaning": {
+      "main": [
+        "to send"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "فرستادن",
+    "spokenPersian": "فرستادن *",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "farsudan",
+    "meaning": {
+      "main": [
+        "to wear (out)",
+        "to rub (off)",
+        "to become worn",
+        "to obliterate; <a title=\"figurative\"><i>fig.</i></a> to tire; <a title=\"figurative\"><i>fig.</i></a>"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to become tired;"
+        ]
+      }
+    },
+    "writtenPersian": "فرسودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "farmudan",
+    "writtenEnglish": "farmudan",
+    "meaning": {
+      "main": [
+        "to command; <a title=\"\"><i>pol.</i></a> to say",
+        "to do"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "فرمودن",
+    "spokenPersian": "فرمودن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "forukhtan",
+    "writtenEnglish": "forukhtan",
+    "meaning": {
+      "main": [
+        "to sell",
+        "to sell off"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "فروختن",
+    "spokenPersian": "فروختن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "afrukhtan",
+    "meaning": {
+      "main": [
+        "to kindle"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "فروختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "fariftan",
+    "meaning": {
+      "main": [
+        "to deceive"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "فریفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "fesordan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to be extinguished",
+          "to be frozen",
+          "to freeze",
+          "to congeal",
+          "to grow numb",
+          "to become sad",
+          "to become depressed"
+        ]
+      }
+    },
+    "writtenPersian": "فسردن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "feshordan",
+    "meaning": {
+      "main": [
+        "to press",
+        "to squeeze"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "فشردن",
+    "spokenPersian": "",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "fakandan",
+    "meaning": {
+      "main": [
+        "to throw",
+        "to project"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "فکندن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "fahmundan",
+    "writtenEnglish": "fahmāndan",
+    "meaning": {
+      "main": [
+        "to make understand",
+        "to explain",
+        "to communicate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "فهماندن",
+    "spokenPersian": "فهموندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "fahmidan",
+    "writtenEnglish": "fahmidan",
+    "meaning": {
+      "main": [
+        "to understand",
+        "to understand",
+        "to understand",
+        "to understand",
+        "to sympathize"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "فهمیدن",
+    "spokenPersian": "فهمیدن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "kāstan",
+    "meaning": {
+      "main": [
+        "to be decreased",
+        "to decrease",
+        "to diminish"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "کاستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "kāshtan",
+    "meaning": {
+      "main": [
+        "to plant",
+        "to sow"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "کاشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "kāftan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to split",
+          "to dig",
+          "to dig up",
+          "to excavate"
+        ]
+      }
+    },
+    "writtenPersian": "کافتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "kāvidan",
+    "writtenEnglish": "kāvidan",
+    "meaning": {
+      "main": [
+        "",
+        "to excavate",
+        "to dig up",
+        "to excavate",
+        "to excavate",
+        "to dig",
+        "to dig",
+        "to dig up",
+        "to burrow;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to excavate",
+          "to dig up",
+          "to excavate",
+          "to excavate",
+          "to dig",
+          "to dig",
+          "to dig up",
+          "to burrow; <a title=\"literary\"><i>lit.</i></a> to search;"
+        ],
+        "literary": [
+          "to search;"
+        ]
+      }
+    },
+    "writtenPersian": "کاویدن",
+    "spokenPersian": "کاویدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "kardan *",
+    "writtenEnglish": "kardan",
+    "meaning": {
+      "main": [
+        "to do"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "کردن",
+    "spokenPersian": "کردن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "keshundan",
+    "writtenEnglish": "keshāndan",
+    "meaning": {
+      "main": [
+        "to pull",
+        "to attract",
+        "to pull",
+        "to pull",
+        "to pull",
+        "to pull out",
+        "to drag",
+        "to drag",
+        "to draw",
+        "to draw",
+        "to draw",
+        "to lead",
+        "to lead",
+        "to prolong"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "کشاندن",
+    "spokenPersian": "کشوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "keshānidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to pull",
+          "to attract",
+          "to pull",
+          "to pull",
+          "to pull",
+          "to pull out",
+          "to drag",
+          "to drag",
+          "to draw",
+          "to draw",
+          "to draw",
+          "to lead",
+          "to lead",
+          "to prolong"
+        ]
+      }
+    },
+    "writtenPersian": "کشانیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "koshtan",
+    "writtenEnglish": "koshtan",
+    "meaning": {
+      "main": [
+        "to kill"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "کشتن",
+    "spokenPersian": "کشتن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "keshtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to plant",
+          "to sow"
+        ]
+      }
+    },
+    "writtenPersian": "کشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "keshidan",
+    "writtenEnglish": "keshidan",
+    "meaning": {
+      "main": [
+        "to convey",
+        "to carry",
+        "to lead",
+        "to pull",
+        "to attract",
+        "to draw",
+        "to draw",
+        "to take out",
+        "to draw",
+        "to stretch",
+        "to smoke",
+        "to touch",
+        "to rub",
+        "to weigh",
+        "to endure",
+        "to thread",
+        "to hang",
+        "to extract",
+        "to last",
+        "to sketch",
+        "to draw"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "کشیدن",
+    "spokenPersian": "کشیدن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "kandan",
+    "writtenEnglish": "kandan",
+    "meaning": {
+      "main": [
+        "to dig",
+        "to excavate",
+        "to dig up",
+        "to dig",
+        "to excavate",
+        "to excavate",
+        "to burrow",
+        "to extract",
+        "to take off",
+        "to pare",
+        "to husk",
+        "to hoe",
+        "to shovel",
+        "to uproot",
+        "to pull off",
+        "to pluck",
+        "to carve; <a title=\"figurative\"><i>fig.</i></a> to depart;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to destroy"
+        ]
+      }
+    },
+    "writtenPersian": "کندن",
+    "spokenPersian": "کندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "kubidan",
+    "writtenEnglish": "kubidan",
+    "meaning": {
+      "main": [
+        "to beat",
+        "to hammer",
+        "to pound",
+        "to stamp"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "کوبیدن",
+    "spokenPersian": "کوبیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "kushidan",
+    "meaning": {
+      "main": [
+        "to endeavour",
+        "to try",
+        "to make an effort;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to war"
+        ]
+      }
+    },
+    "writtenPersian": "کوشیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "kuftan",
+    "meaning": {
+      "main": [
+        "to knock",
+        "to strike",
+        "to beat",
+        "to trample",
+        "to shake"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "کوفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "godākhtan",
+    "meaning": {
+      "main": [
+        "to melt"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گداختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "gozāshtan *",
+    "writtenEnglish": "gozāshtan",
+    "meaning": {
+      "main": [
+        "to put;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to let",
+          "to allow",
+          "to permit",
+          "to leave;"
+        ]
+      }
+    },
+    "writtenPersian": "گذاشتن",
+    "spokenPersian": "گذاشتن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "gozarundan",
+    "writtenEnglish": "gozarāndan",
+    "meaning": {
+      "main": [
+        "to spend",
+        "to pass through",
+        "to cause to pass"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گذراندن",
+    "spokenPersian": "گذروندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "gozashtan",
+    "writtenEnglish": "gozashtan",
+    "meaning": {
+      "main": [
+        "to pass",
+        "to pass through",
+        "to surpass",
+        "to exceed",
+        "to overlook"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گذشتن",
+    "spokenPersian": "گذشتن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "gardundan",
+    "writtenEnglish": "gardāndan",
+    "meaning": {
+      "main": [
+        "to take sightseeing",
+        "to circulate",
+        "to rotate",
+        "to spin",
+        "to wind; <a title=\"figurative\"><i>fig.</i></a> to manage",
+        "to change",
+        "to transform;",
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "<a title=\"figurative\"><i>fig.</i></a> to drive away",
+          "to reject",
+          "to translate"
+        ],
+        "figurative": [
+          "to drive away",
+          "to reject",
+          "to translate"
+        ]
+      }
+    },
+    "writtenPersian": "گرداندن",
+    "spokenPersian": "گردوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "gardidan",
+    "writtenEnglish": "gardidan",
+    "meaning": {
+      "main": [
+        "to become",
+        "to circle",
+        "to spin",
+        "to wander",
+        "to stroll",
+        "to be circulated;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to progress",
+          "to search (for)",
+          "to turn away (from);"
+        ]
+      }
+    },
+    "writtenPersian": "گردیدن",
+    "spokenPersian": "گردیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "gereftan *",
+    "writtenEnglish": "gereftan",
+    "meaning": {
+      "main": [
+        "to take",
+        "to take",
+        "to take",
+        "to hold",
+        "to grip",
+        "to grab",
+        "to catch",
+        "to seize",
+        "to acquire",
+        "to capture",
+        "to get",
+        "to accept",
+        "to adopt",
+        "to get",
+        "to grip",
+        "to arrest",
+        "to begin",
+        "to surround",
+        "to undertake"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گرفتن",
+    "spokenPersian": "گرفتن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "gorikhtan",
+    "meaning": {
+      "main": [
+        "to flee",
+        "to flee",
+        "to escape"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گریختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "geristan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "literary": [
+          "to weep",
+          "to cry"
+        ]
+      }
+    },
+    "writtenPersian": "گریستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "gozārdan",
+    "writtenEnglish": "gozārdan",
+    "meaning": {
+      "main": [
+        "to perform",
+        "to perform",
+        "to carry out",
+        "to do",
+        "to express",
+        "to convey",
+        "to pay",
+        "to interpret"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گزاردن",
+    "spokenPersian": "گزاردن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "gozidan",
+    "meaning": {
+      "main": [
+        "to choose",
+        "to prefer"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گزیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "gazidan",
+    "writtenEnglish": "gazidan",
+    "meaning": {
+      "main": [
+        "to bite",
+        "to sting"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گزیدن",
+    "spokenPersian": "گزیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "gosestan",
+    "meaning": {
+      "main": [
+        "not found"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گسستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "gosastan",
+    "meaning": {
+      "main": [
+        "to break off",
+        "to disconnect"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گسستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "gosikhtan",
+    "meaning": {
+      "main": [
+        "to break (off)",
+        "to become torn",
+        "to tear;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to become broken"
+        ]
+      }
+    },
+    "writtenPersian": "گسیختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "goshādan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to open",
+          "to become opened"
+        ]
+      }
+    },
+    "writtenPersian": "گشادن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "gashtan *",
+    "writtenEnglish": "gashtan",
+    "meaning": {
+      "main": [
+        "to turn",
+        "to turn around",
+        "to circulate",
+        "to ramble",
+        "to search",
+        "to become"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گشتن",
+    "spokenPersian": "گشتن *",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "goshudan",
+    "meaning": {
+      "main": [
+        "to open",
+        "to become opened"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گشودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "goftan *",
+    "writtenEnglish": "goftan",
+    "meaning": {
+      "main": [
+        "to say",
+        "to speak",
+        "to compose (poetry)",
+        "to tell; <a title=\"slang\"><i>sl.</i></a> to invite; <a title=\"figurative\"><i>fig.</i></a> to understand;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to sing"
+        ]
+      }
+    },
+    "writtenPersian": "گفتن",
+    "spokenPersian": "گفتن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "gomāshtan",
+    "writtenEnglish": "gomāshtan",
+    "meaning": {
+      "main": [
+        "to appoint",
+        "to charge",
+        "to hire",
+        "to assign",
+        "to assign",
+        "to post",
+        "to name",
+        "to nominate",
+        "to place",
+        "to recruit",
+        "to dispatch",
+        "to install"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "گماشتن",
+    "spokenPersian": "گماشتن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "lāgharidan",
+    "writtenEnglish": "lāgharidan",
+    "meaning": {
+      "main": [
+        "<a title=\"slang\"><i>sl.</i></a> to become thin",
+        "to lose weight"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "لاغریدن",
+    "spokenPersian": "لاغریدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "lāfidan",
+    "writtenEnglish": "lāfidan",
+    "meaning": {
+      "main": [
+        "to brag",
+        "to exaggerate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "لافیدن",
+    "spokenPersian": "لافیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "larzundan",
+    "writtenEnglish": "larzāndan",
+    "meaning": {
+      "main": [
+        "to move",
+        "to jar",
+        "to shake",
+        "to vibrate"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "لرزاندن",
+    "spokenPersian": "لرزوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "larzidan",
+    "writtenEnglish": "larzidan",
+    "meaning": {
+      "main": [
+        "to shake",
+        "to tremble",
+        "to shake",
+        "to vibrate",
+        "to quake",
+        "to shiver",
+        "to shiver",
+        "to waver;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to fear",
+          "to jar"
+        ]
+      }
+    },
+    "writtenPersian": "لرزیدن",
+    "spokenPersian": "لرزیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "lestan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to lick"
+        ]
+      }
+    },
+    "writtenPersian": "لستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "leshtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to lick"
+        ]
+      }
+    },
+    "writtenPersian": "لشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "laghzidan",
+    "writtenEnglish": "laghzidan",
+    "meaning": {
+      "main": [
+        "to slide",
+        "to slip",
+        "to skid",
+        "to trip",
+        "to stumble",
+        "to coast",
+        "to soar;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to err",
+          "to stumble",
+          "to stray",
+          "to fall",
+          "to fall"
+        ]
+      }
+    },
+    "writtenPersian": "لغزیدن",
+    "spokenPersian": "لغزیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "lombundan",
+    "writtenEnglish": "lombāndan",
+    "meaning": {
+      "main": [
+        "<a title=\"colloquial\"><i>colloq.</i></a> to pig out",
+        "to eat greedily"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "لمباندن",
+    "spokenPersian": "لمبوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "lamidan",
+    "meaning": {
+      "main": [
+        "to lounge",
+        "to relax",
+        "to recline",
+        "to recline",
+        "to repose;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to be located"
+        ]
+      }
+    },
+    "writtenPersian": "لمیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "langidan",
+    "writtenEnglish": "langidan",
+    "meaning": {
+      "main": [
+        "to limp;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to limp"
+        ]
+      }
+    },
+    "writtenPersian": "لنگیدن",
+    "spokenPersian": "لنگیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "lisidan",
+    "writtenEnglish": "lisidan",
+    "meaning": {
+      "main": [
+        "to lick",
+        "to lap up"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "لیسیدن",
+    "spokenPersian": "لیسیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "mālāndan",
+    "meaning": {
+      "main": [
+        "to rub",
+        "to make even",
+        "to clean;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to punish"
+        ]
+      }
+    },
+    "writtenPersian": "مالاندن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "mālidan",
+    "writtenEnglish": "mālidan",
+    "meaning": {
+      "main": [
+        "to rub",
+        "to smear",
+        "to massage; <a title=\"slang\"><i>sl.</i></a> to bump;",
+        "to stomp on;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to stomp on; <a title=\"figurative\"><i>fig.</i></a>"
+        ],
+        "figurative": [
+          ""
+        ]
+      }
+    },
+    "writtenPersian": "مالیدن",
+    "spokenPersian": "مالیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "mundan",
+    "writtenEnglish": "māndan",
+    "meaning": {
+      "main": [
+        "to remain"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ماندن",
+    "spokenPersian": "موندن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "mānestan",
+    "meaning": {
+      "main": [
+        "to resemble"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "مانستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "mordan",
+    "writtenEnglish": "mordan",
+    "meaning": {
+      "main": [
+        "to die"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "مردن",
+    "spokenPersian": "مردن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "moshtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to rub"
+        ]
+      }
+    },
+    "writtenPersian": "مشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "meshtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to rub",
+          "to knead"
+        ]
+      }
+    },
+    "writtenPersian": "مشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "mekidan",
+    "writtenEnglish": "makidan",
+    "meaning": {
+      "main": [
+        "to suck",
+        "to suck up",
+        "to suckle"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "مکیدن",
+    "spokenPersian": "مکیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "muidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to lament",
+          "to mourn",
+          "to weep"
+        ]
+      }
+    },
+    "writtenPersian": "موییدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "nāzidan",
+    "writtenEnglish": "nāzidan",
+    "meaning": {
+      "main": [
+        "to boast",
+        "to be proud of;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to strut",
+          "to act coyly",
+          "to plead"
+        ]
+      }
+    },
+    "writtenPersian": "نازیدن",
+    "spokenPersian": "نازیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "nālidan",
+    "meaning": {
+      "main": [
+        "to groan",
+        "to moan",
+        "to lament",
+        "to complain;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to become sick"
+        ]
+      }
+    },
+    "writtenPersian": "نالیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "nāmidan",
+    "writtenEnglish": "nāmidan",
+    "meaning": {
+      "main": [
+        "to name",
+        "to call"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "نامیدن",
+    "spokenPersian": "نامیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "neshāstan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to seat",
+          "to set",
+          "to sit"
+        ]
+      }
+    },
+    "writtenPersian": "نشاستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "neshundan",
+    "writtenEnglish": "neshāndan",
+    "meaning": {
+      "main": [
+        "to seat",
+        "to set",
+        "to install",
+        "to plant",
+        "to calm",
+        "to lessen"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "نشاندن",
+    "spokenPersian": "نشوندن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "neshastan *",
+    "writtenEnglish": "neshastan",
+    "meaning": {
+      "main": [
+        "to sit",
+        "to sit down",
+        "to dwell;"
+      ],
+      "tagged": {
+        "figurative": [
+          "to subside",
+          "to sit",
+          "to sit around",
+          "to socialize",
+          "settle;"
+        ]
+      }
+    },
+    "writtenPersian": "نشستن",
+    "spokenPersian": "نشستن *",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "negāshtan",
+    "meaning": {
+      "main": [
+        "to paint",
+        "to draw;"
+      ],
+      "tagged": {
+        "literary": [
+          "to write",
+          "to write",
+          "to write",
+          "to write",
+          "to write"
+        ]
+      }
+    },
+    "writtenPersian": "نگاشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "negaristan",
+    "meaning": {
+      "main": [
+        "to look",
+        "to see",
+        "to view"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "نگریستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "nemudan",
+    "meaning": {
+      "main": [
+        "to show",
+        "to appear",
+        "to seem"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "نمودن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "navākhtan",
+    "writtenEnglish": "navākhtan",
+    "meaning": {
+      "main": [
+        "to caress",
+        "to play",
+        "to play",
+        "to play"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "نواختن",
+    "spokenPersian": "نواختن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "navardidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to traverse",
+          "to roam",
+          "to wander",
+          "to navigate",
+          "to roll up",
+          "to rub together",
+          "to put aside",
+          "to leave"
+        ]
+      }
+    },
+    "writtenPersian": "نوردیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "neveshtan",
+    "writtenEnglish": "neveshtan",
+    "meaning": {
+      "main": [
+        "to write",
+        "to write",
+        "to write"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "نوشتن",
+    "spokenPersian": "نوشتن",
+    "isBasic": true
+  },
+  {
+    "spokenEnglish": "nushidan",
+    "writtenEnglish": "nushidan",
+    "meaning": {
+      "main": [
+        "to drink"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "نوشیدن",
+    "spokenPersian": "نوشیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "nahādan",
+    "meaning": {
+      "main": [
+        "to place",
+        "to lay",
+        "to store"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "نهادن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "nahoftan",
+    "meaning": {
+      "main": [
+        "to hide;"
+      ],
+      "tagged": {
+        "obsolete": [
+          "to bury",
+          "to become hidden"
+        ]
+      }
+    },
+    "writtenPersian": "نهفتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "vā gozāshtan",
+    "meaning": {
+      "main": [
+        "to transfer",
+        "to turn over",
+        "to hand over",
+        "to entrust",
+        "to cede",
+        "to leave",
+        "to abandon"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "وا گذاشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "varzidan",
+    "writtenEnglish": "varzidan",
+    "meaning": {
+      "main": [
+        "to exercise",
+        "to train",
+        "to cultivate",
+        "to knead"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ورزیدن",
+    "spokenPersian": "ورزیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "vazidan",
+    "meaning": {
+      "main": [
+        "to blow"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "وزیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "virāstan",
+    "writtenEnglish": "virāstan",
+    "meaning": {
+      "main": [
+        "to edit",
+        "to edit",
+        "to edit out",
+        "to delete",
+        "to redact",
+        "to rewrite",
+        "to rewrite",
+        "to revise"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "ویراستن",
+    "spokenPersian": "ویراستن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "harāsidan",
+    "writtenEnglish": "harāsidan",
+    "meaning": {
+      "main": [
+        "to fear",
+        "to be terrified"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "هراسیدن",
+    "spokenPersian": "هراسیدن",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "heshtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to put",
+          "to leave",
+          "to leave behind"
+        ]
+      }
+    },
+    "writtenPersian": "هشتن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "yākhtan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to reach for",
+          "to pick up",
+          "to raise"
+        ]
+      }
+    },
+    "writtenPersian": "یاختن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "yārestan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to have the power or courage",
+          "to be able"
+        ]
+      }
+    },
+    "writtenPersian": "یارستن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "",
+    "writtenEnglish": "yāzidan",
+    "meaning": {
+      "main": [
+        ""
+      ],
+      "tagged": {
+        "obsolete": [
+          "to hold up",
+          "to lift",
+          "to touch",
+          "to be held",
+          "to be hanging",
+          "to bend",
+          "to intend"
+        ]
+      }
+    },
+    "writtenPersian": "یازیدن",
+    "spokenPersian": "",
+    "isBasic": false
+  },
+  {
+    "spokenEnglish": "yāftan",
+    "writtenEnglish": "yāftan",
+    "meaning": {
+      "main": [
+        "to find",
+        "to obtain"
+      ],
+      "tagged": {}
+    },
+    "writtenPersian": "یافتن",
+    "spokenPersian": "یافتن",
+    "isBasic": false
+  }
+]
