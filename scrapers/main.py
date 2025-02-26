@@ -80,7 +80,6 @@ def get_conjugations(url):
                 # Move to the next sibling
                 next_sibling = next_sibling.find_next_sibling()
 
-    pprint(conjugations)
     return conjugations
 
 def extract_verb_data(tr):
@@ -116,6 +115,9 @@ def extract_verb_data(tr):
     return verb
 
 def main():
+
+    verbs = []
+
     # Read the HTML file
     with open('basic_verbs.html', 'r', encoding='utf-8') as file:
         html_content = file.read()
@@ -125,25 +127,52 @@ def main():
 
     # Find all table rows
     rows = soup.find_all('tr')
+    counter = 0
+    # Extract verb data from each row
+    for row in rows:
+        time.sleep(1)
+        try:
+            verb_data = extract_verb_data(row)
+            if verb_data:
+                verbs.append(verb_data)
+        except Exception as e:
+            print('failed on', row)
+            print(e)
+        
+        
+        counter += 1
+        print("Verbs Completed: ", counter)
+
+     # Read the HTML file
+    with open('compound_verbs.html', 'r', encoding='utf-8') as file:
+        html_content = file.read()
+
+    # Parse the HTML
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    # Find all table rows
+    rows = soup.find_all('tr')
 
     # Extract verb data from each row
-    verbs = []
-    i = 0
     for row in rows:
-        time.sleep(2)
-        i += 1
-        verb_data = extract_verb_data(row)
-        if verb_data:
-            verbs.append(verb_data)
+        time.sleep(1)
+        try:
+            verb_data = extract_verb_data(row)
+            if verb_data:
+                verbs.append(verb_data)
+        except Exception as e:
+            print('failed on', row)
+            print(e)
+        print("Verbs Completed: ", counter)
 
-        if i == 25:
-            break
+    
+        
         
 
     # Write the data to a JSON file
-    with open('basic_verbs_parsed.json', 'w', encoding='utf-8') as json_file:
+    with open('all_verbs_parsed.json', 'w', encoding='utf-8') as json_file:
         json.dump(verbs, json_file, ensure_ascii=False, indent=2)
 
-    print("Conversion complete. Data saved to persian_verbs.json")
+    print("Conversion complete. Data saved to all_verbs_parsed.json")
 
 main()

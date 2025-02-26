@@ -7,35 +7,13 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { ScrollArea } from "@/components/ui/scroll-area"
 import { Badge } from "@/components/ui/badge"
 import { Toggle } from "@/components/ui/toggle"
+import { ConjugationsBox } from './TenseConjugationBox'
+import { ConjugationTenses, Verb } from '../interfaces/VerbInterfaces'
 
-interface ConjugatedVerbs {
-    positive: string[];
-    negative?: string[];
-}
-
-interface Conjugation {
-  tense: string;
-  conjugatedVerbs: ConjugatedVerbs[];
-  // Add other properties as needed
-}
-
-interface Verb {
-  writtenEnglish: string;
-  writtenPersian: string;
-  spokenEnglish?: string;
-  spokenPersian?: string;
-  meaning: string;
-  isBasic: boolean;
-  conjugations: {
-    spokenEnglish: Conjugation[];
-    writtenEnglish: Conjugation[];
-    spokenPersian: Conjugation[];
-    writtenPersian: Conjugation[];
-  };
-}
 
 // Add this helper function at the top of the file, outside of the component
 const normalizeText = (text: string): string => {
+  // return text
   return text.toLowerCase().replace(/ā/g, 'a');
 };
 
@@ -49,42 +27,89 @@ const PersianVerbExplorer: React.FC<PersianVerbExplorerProps> = ({ verbs }) => {
   const [suggestions, setSuggestions] = useState<string[]>([])
   const [selectedVerb, setSelectedVerb] = useState<Verb | null>(null)
   const [isFarsi, setIsFarsi] = useState(false)
-//   console.log(typeof(verbs))
+
+  // Add a new state to manage the debounced input
+  const [debouncedInput, setDebouncedInput] = useState(input);
+
+  // Debounce effect
   useEffect(() => {
-    if (input.length > 0) {
-      const normalizedInput = normalizeText(input);
+    const handler = setTimeout(() => {
+      setDebouncedInput(input);
+    }, 1000); // 300ms debounce delay
+
+    return () => {
+      clearTimeout(handler);
+    };
+  }, [input]);
+
+  useEffect(() => {
+    if (debouncedInput.length > 0) {
+      const normalizedInput = normalizeText(debouncedInput);
       const filtered = verbs.filter((verb: Verb) => {
         if (isFarsi) {
-          return normalizeText(verb.writtenEnglish).includes(normalizedInput);
+          // When isFarsi is true, search in the transliterated Farsi fields
+          // First check the main verb forms
+          if (normalizeText(verb.writtenEnglish).includes(normalizedInput) || 
+              (verb.spokenEnglish && normalizeText(verb.spokenEnglish).includes(normalizedInput))) {
+            return true;
+          }
+          
+          // Then check all conjugation forms
+          if (verb.conjugations && verb.conjugations.spokenEnglish) {
+            // Search through all tenses
+            for (const tense in verb.conjugations.spokenEnglish) {
+              if (tense.includes('Progressive')) {
+                continue;
+              }
+
+              const tenseData = verb.conjugations.spokenEnglish[tense as keyof ConjugationTenses];
+              
+              // Search through positive forms
+              if (tenseData.positive && tenseData.positive.some(form => 
+                  normalizeText(form).includes(normalizedInput))) {
+                return true;
+              }
+              
+              // Search through negative forms
+              if (tenseData.negative && tenseData.negative.some(form => 
+                  normalizeText(form).includes(normalizedInput))) {
+                return true;
+              }
+            }
+          }
+          return false;
         } else {
+          // When isFarsi is false, search in the meaning field (English definition)
           return normalizeText(verb.meaning).includes(normalizedInput);
         }
       });
       
       setSuggestions(filtered.map((verb: Verb) => {
         if (isFarsi) {
-          return verb.writtenEnglish;
+          return `${verb.writtenEnglish}`;
         } else {
-          return verb.meaning;
+          return `${verb.meaning} |&nbsp<strong>${verb.writtenEnglish}</strong>`;
         }
       }));
     } else {
       setSuggestions([]);
     }
-
-    console.log(isFarsi)
-  }, [input, isFarsi, verbs])
+  }, [debouncedInput, isFarsi, verbs]);
 
   const handleSelectVerb = (suggestion: string) => {
-    const selectedVerbData = verbs.find((v: Verb) => 
-      isFarsi 
-        ? v.writtenEnglish === suggestion
-        : v.meaning === suggestion
-    )
-    setSelectedVerb(selectedVerbData || null)
-    setInput(suggestion)
-    setSuggestions([])
-  }
+    const selectedVerbData = verbs.find((v: Verb) => {
+      if (isFarsi) {
+        return v.writtenEnglish === suggestion;
+      } else {
+        // Extract the meaning part from the suggestion
+        const meaningPart = suggestion.split(' |')[0];
+        return v.meaning === meaningPart;
+      }
+    });
+    setSelectedVerb(selectedVerbData || null);
+    // setInput(suggestion)
+    // setSuggestions([])
+  };
 
   return (
     <div className="container mx-auto p-4 text-2xl">
@@ -106,6 +131,7 @@ const PersianVerbExplorer: React.FC<PersianVerbExplorerProps> = ({ verbs }) => {
             <Toggle
               pressed={isFarsi}
               onPressedChange={(pressed) => {
+                console.log('pressed', pressed)
                 setIsFarsi(pressed)
                 setInput('')
                 setSuggestions([])
@@ -115,7 +141,9 @@ const PersianVerbExplorer: React.FC<PersianVerbExplorerProps> = ({ verbs }) => {
               {isFarsi ? 'FA' : 'EN'}
             </Toggle>
           </div>
-          {suggestions.length > 0 && (
+
+
+          {(
             <ScrollArea className="h-32 rounded-md border p-2 mb-4">
               {suggestions.map((suggestion, index) => (
                 <Button
@@ -129,6 +157,9 @@ const PersianVerbExplorer: React.FC<PersianVerbExplorerProps> = ({ verbs }) => {
               ))}
             </ScrollArea>
           )}
+
+
+
           {selectedVerb && (
             <Card className="mt-4">
               <CardHeader>
@@ -153,6 +184,10 @@ const PersianVerbExplorer: React.FC<PersianVerbExplorerProps> = ({ verbs }) => {
                           <p>{selectedVerb.writtenEnglish}</p>
                         </div>
                       )}
+                       <div>
+                      <h3 className="font-semibold">Meaning:</h3>
+                      <p dangerouslySetInnerHTML={{ __html: selectedVerb.meaning }}></p>
+                    </div>
                     </>
                   ) : (
                     <div>
@@ -167,29 +202,10 @@ const PersianVerbExplorer: React.FC<PersianVerbExplorerProps> = ({ verbs }) => {
                   </div>
                   <div>
                     <h3 className="font-semibold">Conjugations:</h3>
+
+
                     <div className="space-y-2">
-                      {Object.entries(selectedVerb.conjugations).map(([language, conjugationArray]) => (
-                        <div key={language}>
-                          <h4 className="font-semibold">{language}:</h4>
-                          {Object.entries(conjugationArray).map(([tense, conjugations]) => (
-                            <Card key={tense} className="mb-2">
-                              <CardHeader>
-                                <h5 className="font-medium">{tense}:</h5>
-                              </CardHeader>
-                              <CardContent>
-                                {Object.entries(conjugations).map(([type, conjugations]) => (
-                                  <div key={type}>
-                                    <h6 className="font-medium">{type}:</h6>
-                                    {Object.entries(conjugations).map(([key, conjugation], index) => (
-                                      <p key={index}>{conjugation as string}</p>
-                                    ))}
-                                  </div>
-                                ))}
-                              </CardContent>
-                            </Card>
-                          ))}
-                        </div>
-                      ))}
+                        <ConjugationsBox conjugations={selectedVerb.conjugations} />
                     </div>
                   </div>
                 </div>
